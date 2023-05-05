@@ -1,2 +1,4 @@
-# astrophotography-classification-neural-network
+# Astrophotography Classification Neural Network
  Algorithm that verifies the astrophotograph sent and returns with detailed information: name of the object, type of object, distance, magnitude and constellation.
+
+In deep learning, a convolutional neural network (CNN) is a class of artificial neural network most commonly applied to analyze visual imagery CNNs use a mathematical operation called convolution in place of general matrix multiplication in at least one of their layers. They are specifically designed to process pixel data and are used in image recognition and processing. They have applications in image and video recognition, recommender systems,image classification, image segmentation, medical image analysis, natural language processing, brain–computer interfaces, and financial time series.
